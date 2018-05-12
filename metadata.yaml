@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5807
     wikipedia: http://en.wikipedia.org/wiki/Hannah_More
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31697#The-Shepherd-of-Salisbury-Plain-and-Other-Tales
 gutenberg_issued: '2010-03-18'
 gutenberg_type: Text
 identifiers:
