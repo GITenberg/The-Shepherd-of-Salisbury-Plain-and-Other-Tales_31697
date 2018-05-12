@@ -1,0 +1,44 @@
+_repo: The-Shepherd-of-Salisbury-Plain-and-Other-Tales_31697
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: More, Hannah
+    aliases:
+    - Moore, Hannah
+    - Chip, Will
+    birthdate: 1745
+    deathdate: 1833
+    gutenberg_agent_id: '5807'
+    url: http://www.gutenberg.org/2009/agents/5807
+    wikipedia: http://en.wikipedia.org/wiki/Hannah_More
+description: ''
+gutenberg_issued: '2010-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31697'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Short stories'
+tableOfContents: 'Tales for the common people: The shepherd of Salisbury Plain. The
+  two shoemakers. The history of Tom White, the post boy. The Sunday school. The history
+  of Hester Wilmot, being the sequel to the Sunday school. The history of Betty Brown,
+  the St. Giles''s orange girl; with some accoung of Mrs. Sponge, the money-lender.
+  Black Giles the poacher; containing some account of a family who had rather live
+  by their wits than their work. Tawney Rachel, or the fortune-teller; with some account
+  of dreams, omens, and conjurers -- Stories for persons of middle rank: The history
+  of Mr. Fantom (the new-fashioned philosopher), and his man William. The two wealthy
+  farmers; or the history of Mr. Bragwell. ''Tis all for the best. A cure for melancholy
+  -- Allegories: The pilgrims. The valley of tears. The strait gate and the broad
+  way. Parley the porter. The grand assizes; or general jail delivery. The servant
+  man turned soldier, or the fair-weather Christian.'
+title: The Shepherd of Salisbury Plain, and Other Tales
+url: http://www.gutenberg.org/ebooks/31697
